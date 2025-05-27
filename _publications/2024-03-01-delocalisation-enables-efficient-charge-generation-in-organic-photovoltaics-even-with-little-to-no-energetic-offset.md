@@ -2,11 +2,9 @@
 title: "Delocalisation enables efficient charge generation in organic photovoltaics, even with little to no energetic offset"
 collection: publications
 permalink: /publication/delocalisation-enables-efficient-charge-generation-in-organic-photovoltaics-even-with-little-to-no-energetic-offset
+excerpt: 'Demonstrates efficient charge generation in organic photovoltaics without energetic offset due to delocalisation.'
 date: 2024-03-01
-authors: "Daniel Balzer, Ivan Kassal"
-journal: "Chemical Science"
-volume: ""
-issue: ""
-pages: ""
-doi: "https://doi.org/10.1039/D3SC06959A"
+venue: 'Chemical Science'
+paperurl: 'http://danielbalzer.github.io/files/delocalisation-enables-efficient-charge-generation-in-organic-photovoltaics-even-with-little-to-no-energetic-offset.pdf'
+citation: 'Daniel Balzer, Ivan Kassal. (2024). &quot;Delocalisation enables efficient charge generation in organic photovoltaics, even with little to no energetic offset.&quot; <i>Chemical Science</i>.'
 ---
