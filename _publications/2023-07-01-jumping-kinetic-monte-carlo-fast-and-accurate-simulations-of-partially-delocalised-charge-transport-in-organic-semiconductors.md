@@ -2,7 +2,6 @@
 title: "Jumping kinetic Monte Carlo: Fast and accurate simulations of partially delocalised charge transport in organic semiconductors"
 collection: publications
 permalink: /publication/jumping-kinetic-monte-carlo-fast-and-accurate-simulations-of-partially-delocalised-charge-transport-in-organic-semiconductors
-excerpt: 'Introduces jumping kinetic Monte Carlo for simulating partially delocalised charge transport.'
 date: 2023-07-01
 venue: 'Journal of Physical Chemistry Letters'
 paperurl: 'http://danielbalzer.github.io/files/jumping-kinetic-monte-carlo-fast-and-accurate-simulations-of-partially-delocalised-charge-transport-in-organic-semiconductors.pdf'

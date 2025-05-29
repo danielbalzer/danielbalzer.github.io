@@ -2,7 +2,6 @@
 title: "Mechanism of Delocalization-Enhanced Exciton Transport in Disordered Organic Semiconductors"
 collection: publications
 permalink: /publication/mechanism-of-delocalization-enhanced-exciton-transport-in-disordered-organic-semiconductors
-excerpt: 'Explains how delocalisation enhances exciton transport in disordered semiconductors.'
 date: 2023-03-01
 venue: 'Journal of Physical Chemistry Letters'
 paperurl: 'http://danielbalzer.github.io/files/mechanism-of-delocalization-enhanced-exciton-transport-in-disordered-organic-semiconductors.pdf'
